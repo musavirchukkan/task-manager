@@ -524,8 +524,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please contact:
 
 - **Email**: abdulmusavirc@gmail.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/musavirchukkan)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/musavirchukkan/)
+- **GitHub**: [https://github.com/musavirchukkan](https://github.com/musavirchukkan)
+- **LinkedIn**: [https://linkedin.com/in/musavirchukkan](https://www.linkedin.com/in/musavirchukkan/)
 
 ---
 
